@@ -6,7 +6,7 @@ public class prakPBO {
 		
 		System.out.println("laporan 1 prak. pbo");
 		
-		biodata();
+		biodata(); // kasih penjelasan tiap baris yak..!!!
 		aritmatika();
 	}
 	
